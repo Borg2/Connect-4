@@ -27,3 +27,7 @@ The computer player employs the following algorithms for making moves:
 5-Follow the on-screen instructions to start the game.<br>
 6-Choose the player you want to start and enter the depths for Minimax and Minimax with Alpha-Beta Pruning.<br>
 Enjoy playing Connect Four!
+# Inspiration
+This Connect Four game was inspired by Keith Galli's tutorial on his YouTube channel. Check out Keith's amazing content for more fun projects and tutorials!
+* youtube:https://www.youtube.com/@KeithGalli
+* github:https://github.com/KeithGalli
